@@ -1,2 +1,2 @@
-# tryHackMe
+# TryHackMe
 Write up - TryHackMe
