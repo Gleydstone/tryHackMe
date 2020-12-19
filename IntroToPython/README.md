@@ -8,7 +8,7 @@ The flag has been encoded a total of 15 times:
 
 <h3>How to Decode</h3>
 
-Install Pyathon3
+Install Python3
 <br>Download the files
 <br/>[Script](https://github.com/Gleydstone/tryHackMe/blob/main/IntroToPython/decode_flag.py)
 <br/>[Flag](https://github.com/Gleydstone/tryHackMe/blob/main/IntroToPython/encodedflag.txt)
